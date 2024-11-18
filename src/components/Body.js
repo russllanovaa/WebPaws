@@ -14,9 +14,9 @@ const Body = () => {
               <div style={styles.card}>
                   <img src={"/oksana.jpg"} style={styles.photo} />
                   <div style={styles.textContainer}>
-                      <h2 style={styles.name}>Ksenia</h2>
+                      <h2 style={styles.name}>Oksana</h2>
                       <p style={styles.position}></p>
-                      <p style={styles.position}>Developer</p>
+                      <p style={styles.position}>Designer</p>
                   </div>
               </div>
     </main>
