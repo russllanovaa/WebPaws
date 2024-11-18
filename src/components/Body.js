@@ -19,7 +19,6 @@ const Body = () => {
             <p style={styles.position}>Tester</p>
           </div>
         </div>
-          </div>
               <div style={styles.card}>
                   <img src={"/oksana.jpg"} style={styles.photo} />
                   <div style={styles.textContainer}>
