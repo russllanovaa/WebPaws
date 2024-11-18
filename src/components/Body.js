@@ -4,13 +4,21 @@ const Body = () => {
   return (
     <main style={styles.body}>
       <div style={styles.card}>
-        <img src={"/niia.jpg"}  style={styles.photo} />
+        <img src={"/niaa.jpg"}  style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Ksenia</h2>
           <p style={styles.position}></p>
           <p style={styles.position}>Developer</p>
         </div>
-      </div>
+         </div>
+        <div style={styles.card}>
+          <img src ={"/oatr.jpg"} style={styles.photo} />
+          <div style={styles.textContainer}>
+            <h2 style={styles.name}>Ostap</h2>
+            <p style={styles.position}></p>
+            <p style={styles.position}>Tester</p>
+          </div>
+        </div>
     </main>
   );
 };
