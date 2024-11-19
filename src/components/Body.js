@@ -8,7 +8,7 @@ const Body = () => {
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Ksenia</h2>
           <p style={styles.position}></p>
-          <p style={styles.position}>Developer</p>
+          <p style={styles.position}>Dev</p>
         </div>
          </div>
         <div style={styles.card}>
@@ -16,7 +16,7 @@ const Body = () => {
           <div style={styles.textContainer}>
             <h2 style={styles.name}>Ostap</h2>
             <p style={styles.position}></p>
-            <p style={styles.position}>Tester</p>
+            <p style={styles.position}>Non-Tester</p>
           </div>
         </div>
               <div style={styles.card}>
@@ -24,7 +24,7 @@ const Body = () => {
                   <div style={styles.textContainer}>
                       <h2 style={styles.name}>Oksana</h2>
                       <p style={styles.position}></p>
-                      <p style={styles.position}>Designer</p>
+                      <p style={styles.position}>UI/UX</p>
                   </div>
               </div>
           <div style={styles.card}>
@@ -32,7 +32,7 @@ const Body = () => {
               <div style={styles.textContainer}>
                   <h2 style={styles.name}>Daiana</h2>
                   <p style={styles.position}></p>
-                  <p style={styles.position}>Developer 2.0</p>
+                  <p style={styles.position}>Dev</p>
               </div>
           </div>
     </main>
